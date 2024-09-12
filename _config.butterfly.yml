@@ -62,7 +62,7 @@ avatar:
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img:
+default_top_img: https://img.hdbz.net/uploads/2019/0103/oyo01w2ejy2.png?x-oss-process=style/w_1330-h_870
 
 # The banner image of index page
 index_img:
