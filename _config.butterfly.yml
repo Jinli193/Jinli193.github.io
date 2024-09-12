@@ -91,7 +91,7 @@ footer_img: false
 
 # Website Background
 # Can set it to color or image url
-background:
+background: https://images.pexels.com/photos/720684/pexels-photo-720684.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 
 cover:
   # Disable the cover or not
