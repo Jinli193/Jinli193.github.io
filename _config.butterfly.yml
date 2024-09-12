@@ -65,7 +65,7 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img:
+index_img: https://images.pexels.com/photos/720684/pexels-photo-720684.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 
 # The banner image of archive page
 archive_img:
